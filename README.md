@@ -5,9 +5,9 @@
 
   The purpose of this project was to refactor the original code to make increase web accessibility and fit proper code semantics.
   
-  ## Installation
+  ## Link
   
-  Clone this repository to access this code
+  Deployed link [#]
 
   ## ScreenShots
 ![image](https://user-images.githubusercontent.com/72588525/114090706-c3eb9280-9885-11eb-80a7-3e51e28855c5.png)
