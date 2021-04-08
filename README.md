@@ -7,7 +7,7 @@
   
   ## Link
   
-  Deployed link [#]
+  Deployed link: https://taiyahm.github.io/Code-Refactor/
 
   ## ScreenShots
 ![image](https://user-images.githubusercontent.com/72588525/114090706-c3eb9280-9885-11eb-80a7-3e51e28855c5.png)
