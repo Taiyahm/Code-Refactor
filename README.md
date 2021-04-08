@@ -12,4 +12,4 @@
 
   ## Questions
 
-  If there are any questions, contact me at Taiyahm. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
+  If there are any questions, contact me at Taiyahm23@gmail.com. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
