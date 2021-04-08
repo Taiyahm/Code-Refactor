@@ -6,8 +6,10 @@
   The purpose of the this project was to refractor the original code to make increase web accessibility and fit proper code semantics.
 
   ## ScreenShots
+![image](https://user-images.githubusercontent.com/72588525/114090706-c3eb9280-9885-11eb-80a7-3e51e28855c5.png)
+![image](https://user-images.githubusercontent.com/72588525/114090720-c9e17380-9885-11eb-8700-79ff499148f3.png)
 
 
   ## Questions
 
-  If there are any questions, contact me at undefined. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
+  If there are any questions, contact me at Taiyahm. You can find more of my work at [Taiyahm](https://github.com/Taiyahm/).
